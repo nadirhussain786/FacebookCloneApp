@@ -1,0 +1,5 @@
+.storyReel{
+    display: flex;
+    flex: 1;
+    padding-top: 30px;
+}

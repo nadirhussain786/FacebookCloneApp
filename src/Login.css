@@ -1,0 +1,27 @@
+.login{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.login> div > img {
+    object-fit: contain;
+    height: 60px;
+    margin-top: 20px;
+}
+.login> div{
+    display: flex;
+    flex-direction: column;
+}
+.login> button{
+   
+    width: 250px;
+    background-color:#2e81f4;
+    color: #eff2f5;
+    font-weight: 800;
+    border: none;
+    padding: 10px 0px;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
